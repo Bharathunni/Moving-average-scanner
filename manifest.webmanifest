@@ -1,0 +1,28 @@
+{
+ "name": "MA Scanner",
+ "short_name": "MA Scanner",
+ "start_url": "./index.html#/top",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f4f6f9",
+ "theme_color": "#3d5afe",
+ "description": "Moving-average scanner for NSE and BSE stocks",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
